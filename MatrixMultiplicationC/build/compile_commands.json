@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/LuisG/Desktop/Quinto curso/Primer semestre/BD/Trabajos individuales/MatrixMultiplicationC/MatrixMultiplicationC/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe   -g -std=gnu11 -o CMakeFiles\\MatrixMultiplicationC.dir\\main.c.obj -c \"C:\\Users\\LuisG\\Desktop\\Quinto curso\\Primer semestre\\BD\\Trabajos individuales\\MatrixMultiplicationC\\MatrixMultiplicationC\\main.c\"",
+  "file": "C:/Users/LuisG/Desktop/Quinto curso/Primer semestre/BD/Trabajos individuales/MatrixMultiplicationC/MatrixMultiplicationC/main.c",
+  "output": "CMakeFiles/MatrixMultiplicationC.dir/main.c.obj"
+}
+]

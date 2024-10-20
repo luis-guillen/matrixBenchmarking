@@ -1,0 +1,3 @@
+C:/Users/PC/CLionProjects/MatrixMultiplicationC/cmake-build-debug/CMakeFiles/MatrixMultiplicationC.dir
+C:/Users/PC/CLionProjects/MatrixMultiplicationC/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/PC/CLionProjects/MatrixMultiplicationC/cmake-build-debug/CMakeFiles/rebuild_cache.dir

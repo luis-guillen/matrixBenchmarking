@@ -1,0 +1,3 @@
+C:/Users/LuisG/Desktop/Quinto curso/Primer semestre/BD/Trabajos individuales/MatrixMultiplicationC/MatrixMultiplicationC/build/CMakeFiles/MatrixMultiplicationC.dir
+C:/Users/LuisG/Desktop/Quinto curso/Primer semestre/BD/Trabajos individuales/MatrixMultiplicationC/MatrixMultiplicationC/build/CMakeFiles/edit_cache.dir
+C:/Users/LuisG/Desktop/Quinto curso/Primer semestre/BD/Trabajos individuales/MatrixMultiplicationC/MatrixMultiplicationC/build/CMakeFiles/rebuild_cache.dir
